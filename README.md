@@ -14,3 +14,23 @@ Here we provide a different way of computing them
 ## Mix-norm 
 
 <img src="../master/thehood/Poincare_vs_Hypergraphs.png" width="900">
+
+
+
+## files in the root folder
+
+* Hypergraph_demo: we do ...
+
+* mix norm demo: here we do dat ...
+
+
+## flow data for the paper
+
+All the above code are done for the steady flow at Re=1000 in cavity flow. For computing the figures in the paper you need the data corresponding to the flow
+
+
+
+
+send comments and questions to arbabiha@gmail.com
+H. Arbabi
+February 2019
