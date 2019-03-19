@@ -31,7 +31,7 @@ All the above code are done for the steady flow at Re=1000 in cavity flow. For c
 
 
 
-Send comments and questions to arbabiha~AT~gmail.com
+Send comments and questions to arbabiha-AT-gmail.com
 
 H. Arbabi
 
