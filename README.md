@@ -4,4 +4,4 @@ based on the paper "Spectral analysis of mixing in  2D high-Reynolds flows" by H
 
 
 
-<img src="../blob/master/thehood/Poincare_vs_Hypergraph.png" width="700">
+<img src="../blob/master/thehood/Poincare_vs_Hypergraphs.png" width="700">
