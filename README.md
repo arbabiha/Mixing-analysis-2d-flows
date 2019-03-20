@@ -8,7 +8,7 @@ By looking at hypergraph one can delineate the flow regions where chaotic mixing
 
 <img src="../master/thehood/Poincare_vs_Hypergraphs.png" width="750">
 
-Hypergraph techqniue was introduced in "A new mixing diagnostic and the gulf oil spill", Mezic et al, 2010.
+Hypergraph techqniue was introduced by Mezic et al, 2010, "A new mixing diagnostic and the gulf oil spill", Science.
 
 
 ## Mix-norm 
@@ -16,18 +16,21 @@ Mix-norm is a measure of how "mixed" a density field is. Technically speaking, i
 
 <img src="../master/thehood/Mixnorm_example.png" width="750">
 
-
+The mix-norm was introduced in Mathew et al, 2005, "A multiscale measure for mixing", Physica D.
 
 ## files in the root folder
 
 * Hypergraph_demo: we do ...
 
-* Mix_norm_demo: here we do dat ...
+* Mix_norm_demo: this program performs semil-Lagrangian advection of a square blob in periodic cavity flow (Re=13000) and computes the mix-norm of density field in time.   
 
 
 ## flow data for the paper
 
 All the above code are done for the steady flow at Re=1000 in cavity flow. For computing the figures in the paper you need the data corresponding to the flow
+
+
+
 
 
 
