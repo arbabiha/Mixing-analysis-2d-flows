@@ -3,8 +3,9 @@ Mix-norm and hypergraphs for study of mixing in 2d flows
 based on the paper "Spectral analysis of mixing in  2D high-Reynolds flows" by H. Arbabi and I. Mezic
 
 ## Hypergraphs
-Hypergraph is an efficient tool for qualitative assesment of mixing. Heyprgrapsh (definition) ...
-Hypergraphs (how to use) ...
+Hypergraph is an efficient tool for qualitative assesment of mixing.  For the mathematical definition and computation steps see the above paper.
+By looking at hypergraph one can delineate the flow regions where chaotic mixing occurs (grainy mixture of red and blue) from places of regular motion and no or slow mixing (coherent blobs and circles). Unlike classical tools like Poincare maps, hypergraphs also work for aperiodic flows.
+Hypergraph techqniue was introduced in "A new mixing diagnostic and the gulf oil spill", Mezic et al, 2010.
 
 <img src="../master/thehood/Poincare_vs_Hypergraphs.png" width="750">
 
