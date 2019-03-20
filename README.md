@@ -24,16 +24,12 @@ The mix-norm was introduced in Mathew et al, 2005, "A multiscale measure for mix
 
 * Hypergraph_demo: we do ...
 
-* Mix_norm_demo: this program performs semil-Lagrangian advection of a square blob in periodic cavity flow (Re=13000) and computes the mix-norm of density field in time.   
+* Mix_norm_demo: this program performs semil-Lagrangian advection of a square blob in periodic cavity flow (Re=13000) and computes the mix-norm of density field in time.  It takes ~ 100 seconds on my laptop. 
 
 
 ## flow data for the paper
 
-All the above code are done for the steady flow at Re=1000 in cavity flow. For computing the figures in the paper you need the data corresponding to the flow
-
-
-
-
+The flow field data used in the demos is the periodic flow at Re=13000 in the 2D lid-driven cavity. The flow data files used in the paper are available at https://ucsb.box.com/s/7t44ootww9b3axe3oqyngttokl7f75lr .
 
 
 
