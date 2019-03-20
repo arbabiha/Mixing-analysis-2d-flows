@@ -23,9 +23,9 @@ The mix-norm was introduced in Mathew et al, 2005, "A multiscale measure for mix
 
 ## files in the root folder
 
-* Hypergraph_demo: we do ...
+* Hypergraph_demo: runs forwrad advection and variational system for a 100 second in periodic cavity flow (Re=13000), then plots hypergraphs at various times. Simulation time ~150 seconds on my laptop.
 
-* Mix_norm_demo: this program performs semil-Lagrangian advection of a square blob in periodic cavity flow (Re=13000) and computes the mix-norm of density field in time.  It takes ~ 100 seconds on my laptop. 
+* Mix_norm_demo: performs semil-Lagrangian advection of a square blob in periodic cavity flow (Re=13000) and then computes the mix-norm of density field at various times.  It takes ~ 100 seconds on my laptop. 
 
 
 ## flow data for the paper
