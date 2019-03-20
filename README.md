@@ -13,7 +13,7 @@ Here we provide a different way of computing them
 
 ## Mix-norm 
 
-<img src="../master/thehood/Poincare_vs_Hypergraphs.png" width="900">
+<img src="../master/thehood/Mixnorm_example.png" width="900">
 
 
 
