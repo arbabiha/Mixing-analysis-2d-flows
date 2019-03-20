@@ -12,7 +12,7 @@ Hypergraph techqniue was introduced in "A new mixing diagnostic and the gulf oil
 
 
 ## Mix-norm 
-Mix-norm is a measure of how "mixed" a density field is. Technically speaking, it is a function norm specially suited to study of advective mixing. Its essential feature is that it puts more weight of large spatial features. For example, the below figure shows how a blob of material is being advected in a time-dependent flow in a box. The large blob in some places is being strectched into f
+Mix-norm is a measure of how "mixed" a density field is. Technically speaking, it is a function norm specially suited to study of advective mixing. Its essential feature is that it puts more weight on large spatial features. For example, the below figure shows how a blob of material is being advected in a time-dependent flow in a box. The large blob in some places is being strectched into smaller filaments and hence the mix-norm of the density field decreases with time.
 
 <img src="../master/thehood/Mixnorm_example.png" width="750">
 
