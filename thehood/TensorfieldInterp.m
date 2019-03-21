@@ -85,6 +85,6 @@ end
 
 
 
-% part of the source code
-% for "Spectral Analysis of Mixing in 2D High-Reynolds Flows"
+% part of the source code for
+%  "Spectral Analysis of Mixing in 2D High-Reynolds Flows"
 % by Arbabi and Mezic
