@@ -5,7 +5,7 @@ used in "Spectral analysis of mixing in  2D high-Reynolds flows" by H. Arbabi an
 
 
 ## Hypergraphs
-Hypergraph is an efficient tool for qualitative assesment of advective mixing.  For the mathematical definition and computation steps see the paper.
+Hypergraph is an efficient tool for qualitative assesment of advective mixing.  
 By looking at hypergraph one can delineate the flow regions where there is chaotic mixing (grainy mixture of red and blue) from places with no substantial mixing (coherent blobs and circles). Unlike classical tools like Poincare maps, hypergraphs also work for aperiodic flows.
 
 <img src="../master/thehood/Poincare_vs_Hypergraphs.png" width="750">
