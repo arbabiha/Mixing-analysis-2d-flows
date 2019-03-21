@@ -72,7 +72,6 @@ function demo_mix_norm()
     plot(T,phi,'-x')
     title('Mix-norm','FontSize',14,'LineWidth',1.5)
     xlabel('t','FontSize',14)
-%     PrintFigs( 250,'./thehood/','Mixnorm_example','png' )
 end
 
 function [X,Y,Mesh2Vec,Vec2Mesh]=CavityGrid(N)

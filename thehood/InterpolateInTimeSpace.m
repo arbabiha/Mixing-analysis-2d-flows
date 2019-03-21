@@ -10,7 +10,7 @@ persistent VelField Xv Yv
 
 if isempty(VelField)
     load(filename,'VelField')
-    disp('VF loaded')
+    disp('Velocity Field loaded')
     if length(VelField.t)==1    % steady field
         VelField.t = [0,1,1.33];
         VelField.UX = repmat(VelField.UX,[1,1,3]);
@@ -42,3 +42,6 @@ up = interp2(Xv,Yv,Uinterm,X,Y,method);
 vp = interp2(Xv,Yv,Vinterm,X,Y,method);
 end
 
+% part of the source code
+% for "Spectral Analysis of Mixing in 2D High-Reynolds Flows"
+% by Arbabi and Mezic
