@@ -1,13 +1,10 @@
 # Mixing-analysis-2d-flows
-tools for study of mixing in 2d flows
-
-... used in "Spectral analysis of mixing in  2D high-Reynolds flows" by H. Arbabi and I. Mezic.
+Tools for study of mixing in 2d flows used in "Spectral analysis of mixing in  2D high-Reynolds flows" by H. Arbabi and I. Mezic.
 
 
 
 ## Hypergraphs
-Hypergraph is an efficient tool for qualitative assesment of advective mixing.  For the mathematical definition and computation steps see the paper.
-By looking at hypergraph one can delineate the flow regions where there is chaotic mixing (grainy mixture of red and blue) from places with no substantial mixing (coherent blobs and circles). Unlike classical tools like Poincare maps, hypergraphs also work for aperiodic flows.
+Hypergraph is an efficient tool for qualitative assesment of advective mixing.  By looking at hypergraph one can delineate the flow regions where there is chaotic mixing (grainy mixture of red and blue) from places with no substantial mixing (coherent blobs and circles). Unlike classical tools like Poincare maps, hypergraphs also work for aperiodic flows.
 
 <img src="../master/thehood/Poincare_vs_Hypergraphs.png" width="750">
 
@@ -15,7 +12,7 @@ Hypergraph techqniue was introduced by Mezic et al, 2010, "A new mixing diagnost
 
 
 ## Mix-norm 
-Mix-norm is a measure of how "mixed" a density field is. Technically speaking, it is a function norm specially suited to study of advective mixing. Its essential feature is that it puts more weight on large spatial features. For example, the below figure shows how a blob of material is being advected in a time-dependent flow in a box. The large blob in some places is being strectched into smaller filaments and hence the mix-norm of the density field decreases with time. See the "./thehood/SobolevNorm2D" for detail.
+Mix-norm is a measure of how "mixed" a density field is. Technically speaking, it is a Sobolev-space norm of negative index, but its essential feature is that it puts less weight on smaller spatial features. For example, the below figure shows how a blob of material is being advected in a time-dependent flow in a box. The large blob in some places is being strectched into smaller filaments and hence the mix-norm of the density field decreases with time. See the "./thehood/SobolevNorm2D" for detail.
 
 <img src="../master/thehood/Mixnorm_example.png" width="700">
 
