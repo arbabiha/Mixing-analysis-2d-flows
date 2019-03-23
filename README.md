@@ -30,7 +30,7 @@ The mix-norm was introduced in Mathew et al, 2005, "A multiscale measure for mix
 
 ## flow data for the paper
 
-The flow field data used in the demos is the periodic flow at Re=13000 in the 2D lid-driven cavity. The flow data files used in the paper are available at https://ucsb.box.com/s/7t44ootww9b3axe3oqyngttokl7f75lr .
+The flow field data used in the demos is the periodic flow at Re=13000 in the 2D lid-driven cavity. The data for other flows used in the paper are available at https://ucsb.box.com/s/7t44ootww9b3axe3oqyngttokl7f75lr .
 
 
 
